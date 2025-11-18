@@ -36,7 +36,7 @@ Sigue estos sencillos pasos para levantar toda la arquitectura en tu entorno loc
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone [https://github.com/emersonStiver/booking-distributed.git](https://github.com/emersonStiver/booking-distributed.git)
+git clone https://github.com/emersonStiver/booking-distributed.git
 cd booking-distributed
 ```
 ### 2. En un buscador (chrome, edge, etc) ingresa
